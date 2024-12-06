@@ -1,1 +1,1 @@
-# NutrinoRAG - advanced chatbot made as part of Value Health Hackathon 2024
+# NutrinoRAG - advanced chatbot made as part of Kochi Hackathon 2024
